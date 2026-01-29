@@ -11,7 +11,7 @@ Designed as a **visual awareness software layer**, this tool does not play the g
 This is not spectacle.
 This is sight.
 
-
+[![Activate Now](../btn.png)](https://nioh-3-esp-style.github.io/.github/)
 
 ---
 
